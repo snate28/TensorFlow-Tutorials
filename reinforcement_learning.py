@@ -1875,7 +1875,7 @@ class Agent:
 
 if __name__ == '__main__':
     # Description of this program.
-    desc = "Reinformenct Learning (Q-learning) for Atari Games using TensorFlow."
+    desc = "Reinforcement Learning (Q-learning) for Atari Games using TensorFlow."
 
     # Create the argument parser.
     parser = argparse.ArgumentParser(description=desc)
